@@ -2,7 +2,7 @@
   "name": "lasttask",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EvgeN19840.github.io/Movie",
+  "homepage": "https://EvgeN19840.github.io/Movie/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
