@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie/static/css/main.473267a3.css",
+    "main.js": "/Movie/static/js/main.097a9b96.js",
+    "static/media/background.png": "/Movie/static/media/background.dde5d61365280fec4663.png",
+    "static/media/women.png": "/Movie/static/media/women.6d3a97e7d974d52c778a.png",
+    "index.html": "/Movie/index.html",
+    "main.473267a3.css.map": "/Movie/static/css/main.473267a3.css.map",
+    "main.097a9b96.js.map": "/Movie/static/js/main.097a9b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473267a3.css",
+    "static/js/main.097a9b96.js"
+  ]
+}
